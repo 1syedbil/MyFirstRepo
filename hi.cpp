@@ -3,8 +3,8 @@
 int main(void)
 {
 	printf("Hello World, again.");
-	printf("Changes for NewBranch2.");
-	printf("Testing conflict. This line was changed in NewBranch2");
+	printf("Changes for NewBranch1.");
+	printf("Testing conflict. This line was changed in NewBranch1");
 
 	return 0;
 }
